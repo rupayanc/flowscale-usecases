@@ -59,6 +59,14 @@ workflows:
       - label: Output Image
         demo_type: image
     skip_preprocess: true
+  - id: dq52y7ddb14
+    name: film_storyboarding.json
+    description: ''
+    file: in_context_lora_workflows/film_storyboarding.json
+  - id: ieve0e8hr
+    name: logo_visualizer.json
+    description: ''
+    file: in_context_lora_workflows/logo_visualizer.json
 normal_workflows:
   - id: f0rs23vqy3d
     name: film_storyboarding.json
